@@ -12,7 +12,7 @@ const Home = () => {
       </li>
       <li>
         <Link href="/register">
-          <a>Register</a>
+          <a>Register Page</a>
         </Link>
       </li>
     </ul>
