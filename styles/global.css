@@ -1,0 +1,22 @@
+.divider {
+    display: block;
+    height: 5px;
+    width: 50px;
+    background: #fff;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.form-input {
+    height: 40px;
+    line-height: 40px;
+    border-radius: 0;
+    border-left: 5px solid blue;
+}
+.form-input>.form-control {
+    border-radius: 0;
+}
+
+html {
+    overflow-x: hidden;
+}
